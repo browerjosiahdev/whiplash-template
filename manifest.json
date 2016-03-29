@@ -1,0 +1,10 @@
+{
+  "name": "New Course",
+  "version": "1.0.0",
+  "size": {
+    "width": 3,
+    "height": 2
+  },
+  "mapping": [],
+  "id": "__UNIQUE-GUID__"
+}

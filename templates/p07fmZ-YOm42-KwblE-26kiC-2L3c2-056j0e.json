@@ -1,0 +1,1 @@
+{"data":{"css":{"mode":"scss","value":".LineGraphMenu {\n\n}"},"react":{"mode":"jsx","value":"var Template = React.createClass({\n\trender: function () {\n\t\treturn React.createElement(\n\t\t    'p', \n\t\t    null, \n\t\t    'Placeholder for line-graph menu'\n\t\t);\n\t}\n});"},"schema":{"mode":"json","value":"{\n\n}"}},"name":"LineGraphMenu","version":"0.0.0"}
